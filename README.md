@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-ahamed/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/md.faysalmozumder) 
-[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mr_faysal_ahamed/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysalahamed45/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/faysalahamed45) 
+[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/faysalahamed45/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15553156/faysal-ahamed)
 
 
@@ -47,14 +47,14 @@
 
 <br />
 <br />
-<img width="550px" alt="Faysal Ahamed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faysal4525&show_icons=true&theme=blueberry"/>
+<img width="550px" alt="Faysal Ahamed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faysalahamed45&show_icons=true&theme=blueberry"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysal4525&card_width=550&theme=blueberry)](https://github.com/FAYSAL4525/FAYSAL4525)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysal4525&card_width=550&theme=blueberry)](https://github.com/faysalahamed45/faysalahamed45)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://faysal-ahamed.netlify.app/
 [twitter]: https://shadin.netlify.app/
-[linkedin]:https://www.linkedin.com/in/faysal-ahamed/
+[linkedin]:https://www.linkedin.com/in/faysalahamed45/
 [webdevplaylist]:https://faysal-ahamed.netlify.app/
 [jsplaylist]:https://faysal-ahamed.netlify.app/
 [cssplaylist]:https://faysal-ahamed.netlify.app/

@@ -49,7 +49,7 @@
 <br />
 <img width="550px" alt="Faysal Ahamed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faysalahamed45&show_icons=true&theme=blueberry"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysal4525&card_width=550&theme=blueberry)](https://github.com/faysalahamed45/faysalahamed45)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalahamed45&card_width=550&theme=blueberry)](https://github.com/faysalahamed45/faysalahamed45)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://faysal-ahamed.netlify.app/
